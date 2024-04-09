@@ -1,0 +1,116 @@
+Index of Supplementary Materials
+
+Title of paper: "EnKSGD: A Class Of Preconditioned Black Box Optimization And Inversion Algorithms"
+Authors: "Brian Irwin and Sebastian Reich"
+
+
+File: "SMindex.txt"
+Type: "Text file."
+Contents: "Index of Supplementary Materials."
+
+
+File: "README.md"
+Type: "Text file."
+Contents: "Describes how to use the Julia code to produce the results in Section 5 of the paper."
+
+
+File: "objectiveFunctions.jl"
+Type: "Julia code file."
+Contents: "Code that defines objective function structures."
+
+
+File: "Subsection 5.1/aggregate_enksgd_optimize_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 1 (A)."
+
+
+File: "Subsection 5.1/aggregate_enksgd_optimize_noisy_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 2 (E)."
+
+
+File: "Subsection 5.1/aggregate_cfd_bfgs_optimize_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 1 (B)."
+
+
+File: "Subsection 5.1/aggregate_cfd_bfgs_optimize_noisy_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 2 (F)."
+
+
+File: "Subsection 5.1/aggregate_enkf_optimize_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 1 (C)."
+
+
+File: "Subsection 5.1/aggregate_enkf_optimize_noisy_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 2 (G)."
+
+
+File: "Subsection 5.1/aggregate_cfd_gd_optimize_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 1 (D)."
+
+
+File: "Subsection 5.1/aggregate_cfd_gd_optimize_noisy_least_squares.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 1 (H)."
+
+
+File: "Subsection 5.2/aggregate_enksgd_optimize_NLS_table.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in columns 3 - 5 of Table 1."
+
+
+File: "Subsection 5.2/aggregate_enkf_optimize_NLS_table.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in columns 6 - 8 of Table 1."
+
+
+File: "Subsection 5.3/data/gen_poisson_data.jl"
+Type: "Julia code file."
+Contents: "Code that generated the Poisson regression data used to make Figure 3."
+
+
+File: "Subsection 5.3/data/poisson_data.jld"
+Type: "Julia data file."
+Contents: "The Poisson regression data used to make Figure 3."
+
+
+File: "Subsection 5.3/aggregate_enksgd_poisson_regression.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 3 (A)."
+
+
+File: "Subsection 5.3/aggregate_enkf_poisson_regression.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 3 (B)."
+
+
+File: "Subsection 5.4/data/gen_sinusoidal_data.jl"
+Type: "Julia code file."
+Contents: "Code that generated the input signal data used to make Figure 4."
+
+
+File: "Subsection 5.4/data/sinusoidal_data.jld"
+Type: "Julia data file."
+Contents: "The input signal data used to make Figure 4."
+
+
+File: "Subsection 5.4/visualize_signals.jl"
+Type: "Julia code file."
+Contents: "Code that produces Figure 4 (A) and (B)."
+
+
+File: "Subsection 5.4/aggregate_enksgd_signal_reconstruction.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 4 (C)."
+
+
+File: "Subsection 5.4/aggregate_enkf_signal_reconstruction.jl"
+Type: "Julia code file."
+Contents: "Code that produces the results in Figure 4 (D)."
+
+
